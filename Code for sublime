@@ -1,0 +1,5 @@
+<?php
+echo "Hello World!";
+
+
+The above code is to be typed into sublime, saved, and then run in the terminal to test. Hello, World! will show as a result.
